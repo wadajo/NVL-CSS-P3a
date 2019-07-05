@@ -1,0 +1,10 @@
+h1 {
+   color: blue;
+   background-color: yellow;
+   border: 1px solid black;
+}
+ol {
+   background-color: rgb(155, 155, 155);
+   color: #000022;
+   font-family: Georgia, Times, serif;
+}
